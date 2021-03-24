@@ -1,4 +1,13 @@
+def restaurant
+  restaurant_name = "Guy's American Kitchen & Bar"
+  cuisine = "american"
+  motto = "Welcome to Flavor Town!"
+end
 
+def greeting
+  puts "Hi, Ruby programmer!"
+end
+greeting
 Hi! 👋
 
 You've opened the IDE Sandbox, an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code! 🎉
